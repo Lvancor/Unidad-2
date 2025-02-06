@@ -1,9 +1,9 @@
-function mostrarAlerta() {
+function Saludar() {
     alert("¡Hola!");
     alert("^o^");
 }
 
-function segundaFuncion() {
+function Despedida() {
     alert("Adios");
     alert(">w<");
 }
